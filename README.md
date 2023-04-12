@@ -1,2 +1,2 @@
-# Prueva01_Cypress
+# Prueba01_Cypress
 Prueba 01
